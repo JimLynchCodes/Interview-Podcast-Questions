@@ -80,3 +80,16 @@ Some ideas for questions to ask to those interviewed on Jim's video podcast!
 
 - How do you feel about TypeScript?
 
+
+## For Everyone
+
+
+- On a scale from 1 to 10, how "healthy" would you say you are, and why?
+
+
+- Do you have any type of exercise routine or sports that you do regularly?
+
+
+- What do you do for fun (besides coding!)?
+
+
