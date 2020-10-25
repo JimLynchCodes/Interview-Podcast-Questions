@@ -109,4 +109,4 @@ Some ideas for questions to ask to those interviewed on Jim's video podcast!
 
 - What do you do for fun (besides coding!)?
 
-
+.
