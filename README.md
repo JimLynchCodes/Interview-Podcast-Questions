@@ -47,7 +47,7 @@ Some ideas for questions to ask to those interviewed on Jim's video podcast!
 - Have you experienced unfair gender biases in your career?
 
 
-- What do you think we as an engineering industry can do to get young women more interested in software engineering and more represented in the popuilation of engineers?
+- What do you think we as an engineering industry can do to get young women more interested in software engineering and more represented in the population of engineers?
 
 
 ## For Software Engineers of Color
@@ -56,7 +56,7 @@ Some ideas for questions to ask to those interviewed on Jim's video podcast!
 - Have you experienced unfair racial biases in your career?
 
 
-- What do you think we as an engineering industry can do to get young black / hispanic/ etc. people more interested in software engineering and more represented in the popuilation of engineers? 
+- What do you think we as an engineering industry can do to get young black / hispanic/ etc. people more interested in software engineering and more represented in the population of engineers? 
 
 
 ## For JavaScript Developers
