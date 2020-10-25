@@ -2,6 +2,9 @@
 Some ideas for questions to ask to those interviewed on Jim's video podcast! 
 
 
+<br/>
+
+
 ## For Software Engineers
 
 
@@ -32,6 +35,8 @@ Some ideas for questions to ask to those interviewed on Jim's video podcast!
 - What advice would you give to those just beginning or considering beginning a software engineering career?
 
 
+<br/>
+
 
 ## For Very Experienced Engineers
 
@@ -54,6 +59,9 @@ Some ideas for questions to ask to those interviewed on Jim's video podcast!
 - What is an example of a "new shiny thing" that you absolutely love (or one that turned out to be a total waste of time!)? 
 
 
+<br/>
+
+
 ## For Female Engineers
 
 
@@ -72,6 +80,9 @@ Some ideas for questions to ask to those interviewed on Jim's video podcast!
 - What do you think we as an engineering industry can do to get young black / hispanic/ etc. people more interested in software engineering and more represented in the population of engineers? 
 
 
+<br/>
+
+
 ## For JavaScript Developers
 
 
@@ -79,6 +90,9 @@ Some ideas for questions to ask to those interviewed on Jim's video podcast!
 
 
 - How do you feel about TypeScript?
+
+
+<br/>
 
 
 ## For Everyone
