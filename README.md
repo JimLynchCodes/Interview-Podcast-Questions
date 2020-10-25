@@ -20,7 +20,10 @@ Some ideas for questions to ask to those interviewed on Jim's video podcast!
 - What did you study in school? (If not "computer science", how does what you learned there help you as a software engineer?)
 
 
-- What are your go-to IDE, terminal, and browser applications? 
+- What are your go-to IDE, terminal, and browser applications?
+
+
+- As a software engineer, what is your favorite part of the job?
 
 
 ## For Very Experienced Engineers
