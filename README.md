@@ -20,6 +20,9 @@ Some ideas for questions to ask to those interviewed on Jim's video podcast!
 - What has been the most difficult thing for you in your engineering career?
 
 
+- What was it like growing up in [hometown], and when were you first exposed to computer programming?
+
+
 - What did you study in school? (If not "computer science", how does what you learned there help you as a software engineer?)
 
 
