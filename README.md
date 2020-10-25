@@ -26,13 +26,20 @@ Some ideas for questions to ask to those interviewed on Jim's video podcast!
 - As a software engineer, what is your favorite part of the job?
 
 
+- Do you have any tips for managing stress, handling time pressure, and/or dealing with difficult people?
+
+
+- What advice would you give to those just beginning or considering beginning a software engineering career?
+
+
+
 ## For Very Experienced Engineers
 
 
 - Who has been your most notable mentor or role model when it comes to software engineering?
 
 
-- What advice would you give to those just beginning or considering beginning a software engineering career?
+- What advice would you give to those trying to get to the next level in their software engineering career (eg. junior enginer to engineer, engineer to senior engineer, senior engineer to team lead, etc.)?
 
 
 - What does "agile development" mean to you?
@@ -42,6 +49,9 @@ Some ideas for questions to ask to those interviewed on Jim's video podcast!
 
 
 - What are your favorite databases to work with?
+
+
+- What is an example of a "new shiny thing" that you absolutely love (or one that turned out to be a total waste of time!)? 
 
 
 ## For Female Engineers
